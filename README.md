@@ -1,4 +1,4 @@
-# Data-Analysis-Project-with-SQLite
+# Analyzing The Chicago City Socio-economic and Chicago Public Schools Dataset
 
 Welcome to my GitHub repository showcasing three distinct data analysis projects, each harnessing the power of SQLite to uncover valuable insights from different datasets. Here, I provide an overview of each project:
 
